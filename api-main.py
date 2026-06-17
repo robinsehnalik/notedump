@@ -15,7 +15,7 @@ import sys
  
 # ── CONFIG ──────────────────────────────────────────────────────────────────
  
-GEMINI_API_KEY = "AIzaSyD0SWz44kd83Xj2e_GYNgpDdLnpA3LJnw8"
+GEMINI_API_KEY = "GEMINI_API_KEY"
  
 # Folder where your iCloud/Google Drive syncs screenshots to
 INBOX_FOLDER = Path.home() / "/Users/robinsehnalik/Desktop/Notes To-Do"
